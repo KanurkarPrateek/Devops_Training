@@ -1,5 +1,4 @@
-# Day 1 - Partone 
-# Linux 
+# Linux Commands Reference Guide
 
 A comprehensive guide to common Linux commands, including date operations, file management, archiving, and system information retrieval.
 
@@ -109,3 +108,4 @@ dd if=/dev/zero of=1.txt bs=1M count=1 # Creates 1MB file
    - `.tar` for tar archives
    - `.gz` for gzip compression
    - `.bz2` for bzip2 compression
+
